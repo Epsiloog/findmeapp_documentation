@@ -1,2 +1,2 @@
-# findme_documentation
-Site de documentation de FindMe créé grâce à MkDocs.
+# Find Me App documentation
+Site de documentation de Find Me App créé grâce à MkDocs.
